@@ -1,6 +1,6 @@
 # Hi there, I'm Sara Gamal 👋
 
-<h3><p align="center"  ><b>A Computer Engineering Student at Cairo University. </b> </p></h3>
+<h3><p align="center"  ><b>Computer Engineering Graduate from Cairo University. </b> </p></h3>
 
 <p align="center" > <img  width= "40%" z-index="0" src="https://i.pinimg.com/originals/2e/94/62/2e9462cb6e812987c9c05491b61f887e.gif" /> </p>
 
