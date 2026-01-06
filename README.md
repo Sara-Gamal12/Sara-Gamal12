@@ -36,11 +36,6 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sara-Gamal12&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sara-Gamal12&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-Gamal12&hide=Jupyter%20Notebook&hide_border=false&include_all_commit=&count_private=&layout=compact)
-
 ---
 
 
